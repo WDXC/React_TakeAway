@@ -4,5 +4,5 @@
 2. 使用Goolge 前端Ui(Material-ui)
 
 ## 效果图
-![avatar](./Asset/Login_screenshot.png)
-![avatar](./Asset/SignUp_screenShot.png)
+![avatar](./Img_Asset/Login_screenshot.png)
+![avatar](./Img_Asset/SignUp_screenShot.png)
